@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Users/marcelorodiguezgaete/Desktop/Platzi/react/curso-react-intro/build/static/css/main.dfb208b0.css",
+    "main.js": "/Users/marcelorodiguezgaete/Desktop/Platzi/react/curso-react-intro/build/static/js/main.cde3739a.js",
+    "index.html": "/Users/marcelorodiguezgaete/Desktop/Platzi/react/curso-react-intro/build/index.html",
+    "main.dfb208b0.css.map": "/Users/marcelorodiguezgaete/Desktop/Platzi/react/curso-react-intro/build/static/css/main.dfb208b0.css.map",
+    "main.cde3739a.js.map": "/Users/marcelorodiguezgaete/Desktop/Platzi/react/curso-react-intro/build/static/js/main.cde3739a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfb208b0.css",
+    "static/js/main.cde3739a.js"
+  ]
+}
