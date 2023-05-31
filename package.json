@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "/Users/marcelorodiguezgaete/Desktop/Platzi/react/curso-react-intro/build/",
+  "homepage": "https://mancli.github.io/react-intro/",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
